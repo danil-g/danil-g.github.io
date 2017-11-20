@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discipline, routine, self-learning and motivation.
+title: Discipline, Routine, Self-learning and Motivation.
 ---
 
 At the beggining it was really hard for me to work from home in a disciplined manner. It's difficult in the modern world with so many distractions. I believe that the ability to focus on one task could be considered a superpower in the 21st century. I started looking for materials and techniques that could help me to avoid slacking into procrastination mode.
