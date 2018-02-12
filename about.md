@@ -12,4 +12,4 @@ I enjoy challenging myself, assessing and breaking into information systems. I l
 
 ### Contact me
 
-[me@danilg.com](mailto:me@danilg.com)
+[dpgribkov@gmail.com](mailto:dpgribkov@gmail.com)
