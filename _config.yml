@@ -84,5 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+ 
+# Include keybase proof
+include: [".well-known"]
 
 theme: jekyll-theme-cayman
