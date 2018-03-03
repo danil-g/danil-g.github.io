@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/dpg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danilg.com
+  * I am dpg (https://keybase.io/dpg) on keybase.
+  * I have a public key ASBmmxk-CdTgXXMoI0H3HwCiOrsV_GecLGK4znGR0ER_Dwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203412e4275761ec7be96bc3a15fc40cc31b2d67c29b04c8134c16216283de64f60a",
+      "host": "keybase.io",
+      "kid": "0120669b193e09d4e05d73282341f71f00a23abb15fc679c2c62b8ce7191d0447f0f0a",
+      "uid": "eecd61e32e1b5ce6aa815602af2c2419",
+      "username": "dpg"
+    },
+    "merkle_root": {
+      "ctime": 1520090777,
+      "hash": "fd663caed0257cc25679e016112dade0a713cbe3c6636c6fdf0b90aae4741f696c1ece390a87e9158b8737879300df5c86d120fd55e2874124b1dc725fb6f2a6",
+      "hash_meta": "5c18ca563a0cdaf188e6b32b51522be1f8dd9428e669be62f1587aa337ee8fa2",
+      "seqno": 2179945
+    },
+    "service": {
+      "hostname": "danilg.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1520090817,
+  "expire_in": 504576000,
+  "prev": "9a553bf224f8b43a19bbff8ae2416687f8168eb3c22494013f78b52c5b4222b4",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZpsZPgnU4F1zKCNB9x8Aojq7FfxnnCxiuM5xkdBEfw8Kp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzQxMmU0Mjc1NzYxZWM3YmU5NmJjM2ExNWZjNDBjYzMxYjJkNjdjMjliMDRjODEzNGMxNjIxNjI4M2RlNjRmNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjY5YjE5M2UwOWQ0ZTA1ZDczMjgyMzQxZjcxZjAwYTIzYWJiMTVmYzY3OWMyYzYyYjhjZTcxOTFkMDQ0N2YwZjBhIiwidWlkIjoiZWVjZDYxZTMyZTFiNWNlNmFhODE1NjAyYWYyYzI0MTkiLCJ1c2VybmFtZSI6ImRwZyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMDA5MDc3NywiaGFzaCI6ImZkNjYzY2FlZDAyNTdjYzI1Njc5ZTAxNjExMmRhZGUwYTcxM2NiZTNjNjYzNmM2ZmRmMGI5MGFhZTQ3NDFmNjk2YzFlY2UzOTBhODdlOTE1OGI4NzM3ODc5MzAwZGY1Yzg2ZDEyMGZkNTVlMjg3NDEyNGIxZGM3MjVmYjZmMmE2IiwiaGFzaF9tZXRhIjoiNWMxOGNhNTYzYTBjZGFmMTg4ZTZiMzJiNTE1MjJiZTFmOGRkOTQyOGU2NjliZTYyZjE1ODdhYTMzN2VlOGZhMiIsInNlcW5vIjoyMTc5OTQ1fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhbmlsZy5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NCJ9LCJjdGltZSI6MTUyMDA5MDgxNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI5YTU1M2JmMjI0ZjhiNDNhMTliYmZmOGFlMjQxNjY4N2Y4MTY4ZWIzYzIyNDk0MDEzZjc4YjUyYzViNDIyMmI0Iiwic2Vxbm8iOjQxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIjr6Ru5h9CDdFlZoQpwcQmhGGYUw+YTBzEqrjZHjgjIQANfIxSLPlRL8hm5o9R3IybBIhKkQwV+7oWX5Sq3zwuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCgVCq/L4j0ncr2uxiaDKwPnp7MyuS+WK2oVEBYSn4ieaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dpg
+
+==================================================================
